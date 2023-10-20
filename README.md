@@ -1,0 +1,3 @@
+# ProjectAndroid1
+# Đây là project của nhóm 2 người
+# Project này bao gồm các chức năng như ...
