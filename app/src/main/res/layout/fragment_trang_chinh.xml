@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".TrangChinhFragment">
+    <!-- TODO: Update blank fragment layout -->
+    <!-- Có thể lướt chung    -->
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <androidx.viewpager2.widget.ViewPager2
+                android:id="@+id/viewPagerImageSlider"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.5"
+                android:paddingStart="60dp"
+                android:paddingEnd="60dp" />
+
+            <HorizontalScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/btnAll"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="10dp"
+                        android:backgroundTint="@color/white"
+                        android:padding="2dp"
+                        android:text="All"
+                        android:textColor="@color/black"
+                        app:cornerRadius="15px"  />
+
+                    <Button
+                        android:id="@+id/btnPopular"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="10dp"
+                        android:backgroundTint="@color/white"
+                        android:padding="5dp"
+                        android:text="Popular Movies"
+                        android:textColor="@color/black"
+                        app:cornerRadius="15px" />
+
+                    <Button
+                        android:id="@+id/btnkids"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="10dp"
+                        android:backgroundTint="@color/white"
+                        android:padding="2dp"
+                        android:text="Kids"
+                        android:textColor="@color/black"
+                        app:cornerRadius="15px" />
+
+                    <Button
+                        android:id="@+id/btnAnime"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="2dp"
+                        android:layout_margin="10dp"
+                        android:backgroundTint="@color/white"
+                        android:text="Anime"
+                        android:textColor="@color/black"
+                        app:cornerRadius="15px" />
+
+                    <Button
+                        android:id="@+id/btnAction"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="2dp"
+                        android:layout_margin="10dp"
+                        android:backgroundTint="@color/white"
+                        android:text="Action"
+                        android:textColor="@color/black"
+                        app:cornerRadius="15px" />
+
+                    <Button
+                        android:id="@+id/btnComedies"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="2dp"
+                        android:backgroundTint="@color/white"
+                        android:layout_margin="10dp"
+                        android:text="Comedies"
+                        android:textColor="@color/black"
+                        app:cornerRadius="15px" />
+
+                </LinearLayout>
+
+            </HorizontalScrollView>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/Parent_recyclerView"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="2"
+                android:padding="4dp"
+                android:scrollbars="vertical" />
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</FrameLayout>

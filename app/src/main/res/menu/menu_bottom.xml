@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home"
+        />
+    <item
+        android:id="@+id/bottom_watch"
+        android:icon="@drawable/baseline_play_arrow_24"
+        android:title="Play"
+        />
+    <item
+        android:id="@+id/bottom_search"
+        android:icon="@drawable/baseline_search_24"
+        android:title="Search"
+        />
+    <item
+        android:id="@+id/bottom_loveList"
+        android:icon="@drawable/heart"
+        android:title="List"
+        />
+    <item
+        android:id="@+id/bottom_profile"
+        android:icon="@drawable/person"
+        android:title="Profile"
+        />
+</menu>

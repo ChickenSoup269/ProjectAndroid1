@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/thongBaoDangKyThanhCong"
+    android:layout_width="360dp"
+    android:layout_height="wrap_content">
+    
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/layoutDialog"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_background"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent">
+        
+        <TextView
+            android:id="@+id/tvDangKyThanhCong"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Success"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:paddingTop="28dp"
+            android:textStyle="bold"
+            android:gravity="center_horizontal"
+            app:layout_constraintTop_toTopOf="@+id/layoutDialog"
+            />
+
+        <TextView
+            android:id="@+id/tvChucMungDangKy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Click Done To Exit"
+            android:gravity="center_horizontal"
+            android:textSize="15sp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginStart="20dp"
+            app:layout_constraintTop_toBottomOf="@+id/tvDangKyThanhCong"
+            app:layout_constraintBottom_toTopOf="@+id/btnDangKyThanhCong"
+            />
+
+        <Button
+            android:id="@+id/btnDangKyThanhCong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="104dp"
+            android:backgroundTint="#f44336"
+            android:text="DONE"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            app:cornerRadius="12dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tvChucMungDangKy" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <ImageView
+        android:id="@+id/imgSuccess"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/check"
+        android:layout_marginEnd="40dp"
+        android:layout_marginStart="40dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/layoutDialog"
+        app:layout_constraintBottom_toTopOf="@+id/layoutDialog"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

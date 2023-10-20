@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#f44336" /> <!-- Màu đen -->
+    <size android:width="2dp" android:height="20dp" /> <!-- Kích thước của drawable -->
+</shape>
