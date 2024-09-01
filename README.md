@@ -8,3 +8,23 @@
 ================================
 ### Update new!
 - Store lưu trữ trên firebase đã bị xóa nên sẽ không có movie và project đã quá lâu rồi nên không nhớ cấu trúc dự án là gì!
+
+===============================
+## Screenshot
+![App Screenshot](https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080018.png)
+
+![App Screenshot](https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080031.png)
+
+![App Screenshot](https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080040.png)
+
+![App Screenshot](https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080106.png)
+
+![App Screenshot](https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080140.png)
+
+![App Screenshot](https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080146.png)
+
+![App Screenshot](https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080231.png)
+
+![App Screenshot](https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080153.png)
+
+![App Screenshot](https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080244.png)
