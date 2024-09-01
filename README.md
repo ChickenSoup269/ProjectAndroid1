@@ -6,11 +6,12 @@
 - password: 123456
   
 ================================
-### Update new!
-- Store lưu trữ trên firebase đã bị xóa nên sẽ không có movie và project đã quá lâu rồi nên không nhớ cấu trúc dự án là gì!
+<h2><strong>🚨🔴 Update quan trọng!</strong></h2>
+- Storage lưu trữ trên firebase đã bị xóa nên sẽ không có movie và project đã quá lâu rồi nên không nhớ cấu trúc dự án là gì! 🔴
 
-===============================
-## Screenshot
+## Screenshot - khi còn storage
+<div align='center'>
+
 ![App Screenshot](https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080018.png)
 
 ![App Screenshot](https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080031.png)
@@ -28,3 +29,6 @@
 ![App Screenshot](https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080153.png)
 
 ![App Screenshot](https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080244.png)
+</div>
+
+
