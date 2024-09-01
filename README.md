@@ -11,24 +11,30 @@
 
 ## Screenshot - khi còn storage
 <div align='center'>
-
-![App Screenshot](https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080018.png)
-
-![App Screenshot](https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080031.png)
-
-![App Screenshot](https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080040.png)
-
-![App Screenshot](https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080106.png)
-
-![App Screenshot](https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080140.png)
-
-![App Screenshot](https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080146.png)
-
-![App Screenshot](https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080231.png)
-
-![App Screenshot](https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080153.png)
-
-![App Screenshot](https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080244.png)
+  <img src="https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080018.png" alt="App Screenshot" width="500"/>
 </div>
-
-
+<div align='center'>
+   <img src="https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080031.png" alt="App Screenshot" width="500"/>
+</div>
+<div align='center'>
+    <img src="https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080040.png" alt="App Screenshot" width="500"/>
+</div>
+<div align='center'>
+    <img src="https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080106.png" alt="App Screenshot" width="500"/>
+</div>
+<div align='center'>
+    <img src="https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080140.png" alt="App Screenshot" width="500"/>
+</div>
+<div align='center'>
+   <img src="https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080146.png" alt="App Screenshot" width="500"/>
+</div>
+<div align='center'>
+    <img src="https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080231.png" alt="App Screenshot" width="500"/>
+</div>
+<div align='center'>
+    <img src="https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080153.png" alt="App Screenshot" width="500"/>
+</div>
+<div align='center'>
+    <img src="https://github.com/ChickenSoup269/ProjectAndroid1/blob/master/Screenshot%202024-09-01%20080244.png" alt="App Screenshot" width="500"/>
+</div>
+ 
